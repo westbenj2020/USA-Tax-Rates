@@ -1,0 +1,15 @@
+Walmart^Retail^514405000^2200000^Bentonville, AR
+ExxonMobil^Oil and gas^290212000^71000^Irving, TX
+Apple^Electronics^265595000^132000^Cupertino, CA
+Berkshire Hathaway^Conglomerate^247837000^389000^Omaha, NE
+Amazon^Retail^232887000^647500^Seattle, Washington
+UnitedHealth Group^Healthcare^226247000^300000^Minnetonka, MN
+McKesson^Healthcare^208357000^78000^Irving, TX
+CVS Health^Healthcare^194579000^295000^Woonsocket, RI
+AT&T^Telecommunications^170756000^268220^Dallas, TX
+AmerisourceBergen^Pharmaceuticals^167940000^20500^Chesterbrook, PA
+Chevron^Oil and gas^166339000^48600^San Ramon, CA
+Ford^Automotive^160338000^199000^Dearborn, MI
+General Motors^Automotive^147049000^173000^Detroit, MI
+Costco^Retail^141576000^194000^Issaquah, WA
+Alphabet^Technology^136819000^98771^Mountain View, CA^

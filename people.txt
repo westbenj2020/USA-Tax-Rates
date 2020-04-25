@@ -1,0 +1,12 @@
+Single^Jerome^Willington^431 Strawberry St. Apple Valley, CA 92307^760-325-9328^System Architect^160000^2000
+Married filing separately^Blake^Stafford^9498 Cleveland Ave. Deerfield Beach, FL 33442^954-365-9234^Management Consultant^85000^0
+Married filing jointly^Julia^Flemington^119 Fairway Ave. Granger, IN 46530^574-002-3457^Camera Operator^32000^12000
+Head of household^Nicolai^Slevzavich^9513 Walnutwood Drive Melrose, MA 02176^781-920-4668^Landscape Architect^109000^42000
+Married filing jointly^Amanda^White^4 Valley View St. Essex, MD 21221^410-020-0037^Environmental Engineer^78000^1200
+Single^James^Bradford^69 Birchwood Court Gastonia, NC 28052^704-732-8374^Mechanic^60000^0
+Single^Henry^Patton^418 High Noon Street Westford, MA 01886^978-346-2845^Retail Manager^16000^0
+Single^Jennifer^Arrington^76 Hudson Dr. State College, PA 16801^215-395-8873^Unemployed^0^0
+Head of household^Mary^Adams^107 Longbranch Street Hummelstown, PA 17036^717-703-2006^Bus Driver^21000^3835
+Married filing separately^Johnathon^Reiner^272 Marconi Lane Allentown, PA 18102^215-342-1037^Cashier^17000^0
+Single^Albert^Ernst^880 Silver Spear Ave. Groton, CT 06340^860-932-0012^Lawyer^75000^13000
+Single^Elisa^Greystone^544 N. Wild Horse Ave. Lawrence Township, NJ 08648^609-342-7537^Writer^1300000^0^
