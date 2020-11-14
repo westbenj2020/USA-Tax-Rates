@@ -13,7 +13,7 @@ public interface Taxable
 	public double getTaxRate();
 	
 	/**
-	 * This method set the tax rate.
+	 * This method sets the tax rate.
 	 * @param taxableIncome, a double data type.
 	 * @return int, an integer data type.
 	 */
